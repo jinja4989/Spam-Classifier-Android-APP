@@ -5,7 +5,7 @@ Classify Spam/ Ham of Message
 ===========================================================
 
 Data Set : main/assets/spam_classifier.tflite (학습된 코드)
-/ main/assets/word_index.json(입력받은 데이터)
+/ main/assets/word_index.json(토큰화된 데이터)
 
 -DV ETC
  Android Studio, Google Colab
